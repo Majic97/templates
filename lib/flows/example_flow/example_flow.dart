@@ -1,8 +1,8 @@
-import 'package:blog_test_app/flows/get_weather_flow/network/requests.dart';
-import 'package:blog_test_app/flows/get_weather_flow/screen/model.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import '../../environment/dio/dio_client.dart';
+import 'network/requests.dart';
+import 'screen/model.dart';
 import 'screen/view.dart';
 
 class ExampleFlow {

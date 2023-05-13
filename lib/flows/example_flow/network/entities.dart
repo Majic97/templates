@@ -1,5 +1,3 @@
-import 'package:json_annotation/json_annotation.dart';
-
 part 'entities.g.dart';
 
 @JsonSerializable(explicitToJson: true, fieldRename: FieldRename.snake)

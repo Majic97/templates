@@ -1,7 +1,9 @@
-import 'package:blog_test_app/environment/dio/dio_client.dart';
-import 'package:blog_test_app/flows/get_weather_flow/get_wather_flow.dart';
+
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+
+import 'environment/dio/dio_client.dart';
+import 'flows/example_flow/example_flow.dart';
 
 class MainFlow {
   MainFlow() {
