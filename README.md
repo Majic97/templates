@@ -1,4 +1,4 @@
-# blog_test_app
+# flutter_app_template
 
 This project store all app templates what i use for my flutter apps
 
